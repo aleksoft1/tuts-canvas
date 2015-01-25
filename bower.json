@@ -1,0 +1,13 @@
+{
+	"name": "tutsplus-advanced-canvas",
+	"version": "0.0.0",
+	"author": [
+		"Aleksandar Penev <aleksandar_penev@abv.bg>"
+	],
+	"description": "Tuts plus lesson files for advanced canvas course",
+	"main": "index.html",
+	"license": "MIT",
+	"dependencies": {
+		"easeljs": "*"
+	}
+}
